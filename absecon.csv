@@ -1,0 +1,353 @@
+"
+
+
+
+A
+
+
+
+                        Anesthesiologists                    
+
+
+
+                        Allergist-Immunologists                    
+
+
+
+                        Adolescent Medicine Specialists                    
+
+
+B
+
+
+C
+
+
+
+                        Critical Care Surgeons                    
+
+
+
+                        Cardiac Electrophysiologists                    
+
+
+
+                        Cardiologists                    
+
+
+
+                        Child and Adolescent Psychiatrists                    
+
+
+
+                        Colon and Rectal Surgeons                    
+
+
+
+                        Critical Care Specialists                    
+
+
+
+
+
+
+D
+
+
+
+                        Diagnostic Radiologists                    
+
+
+
+                        Dermatologists                    
+
+
+E
+
+
+
+                        ENT-Otolaryngologists                    
+
+
+
+                        Endocrinologists                    
+
+
+F
+
+
+
+                        Family Medicine Doctors                    
+
+
+
+                        Forensic Psychiatrists                    
+
+
+
+
+
+        USN.ready().then(function() {
+            USN.EventDispatcher.instance.dispatcher.trigger('summon:ads:refreshScrolledRectangle');
+        });
+    
+
+
+G
+
+
+
+                        Gynecologic Oncologists                    
+
+
+
+                        Gastroenterologists                    
+
+
+
+                        Geriatricians                    
+
+
+
+                        Geriatric Psychiatrists                    
+
+
+
+
+
+
+H
+
+
+
+                        Hematologists                    
+
+
+I
+
+
+
+                        Infectious Disease Specialists                    
+
+
+
+                        Interventional Cardiologists                    
+
+
+
+                        Internists                    
+
+
+J
+
+
+K
+
+
+
+
+
+
+L
+
+
+M
+
+
+N
+
+
+
+                        Neuroradiologists                    
+
+
+
+                        Nephrologists                    
+
+
+
+                        Neurosurgeons                    
+
+
+
+                        Neurologists                    
+
+
+
+                        Neonatologists                    
+
+
+
+
+
+
+O
+
+
+
+                        Occupational Medicine Specialists                    
+
+
+
+                        Ophthalmologists                    
+
+
+
+                        Obstetrician-Gynecologists                    
+
+
+
+                        Oncologists                    
+
+
+
+                        Orthopedic Surgeons                    
+
+
+
+                        Orthopedists                    
+
+
+P
+
+
+
+                        Pediatric Endocrinologists                    
+
+
+
+                        Perinatologists                    
+
+
+
+                        Physiatrists                    
+
+
+
+                        Pediatricians                    
+
+
+
+                        Pediatric Surgeons                    
+
+
+
+                        Pain Management Specialists                    
+
+
+
+                        Palliative Care Specialists                    
+
+
+
+                        Plastic Surgeons                    
+
+
+
+                        Pediatric Gastroenterologists                    
+
+
+
+                        Pediatric ENT-Otolaryngologists                    
+
+
+
+                        Psychiatrists                    
+
+
+
+                        Pediatric Neurologists                    
+
+
+
+                        Pulmonologists                    
+
+
+
+                        Preventive Medicine Physicians                    
+
+
+
+                        Pediatric Pulmonologists                    
+
+
+
+                        Pathologists                    
+
+
+Q
+
+
+
+
+
+
+R
+
+
+
+                        Radiologists                    
+
+
+
+                        Radiation Oncologists                    
+
+
+
+                        Rheumatologists                    
+
+
+S
+
+
+
+                        Surgeons                    
+
+
+T
+
+
+
+                        Thoracic and Cardiac Surgeons                    
+
+
+U
+
+
+
+                        Urologists                    
+
+
+
+
+
+
+V
+
+
+
+                        Vascular and Interventional Radiologists                    
+
+
+
+                        Vascular Surgeons                    
+
+
+W
+
+
+X
+
+
+Y
+
+
+
+
+
+
+Z
+
+
+
+"
